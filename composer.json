@@ -1,10 +1,10 @@
 {
-    "name": "adifa/pweb",
+    "name": "gloria/pweb",
     "description": "Tugas PWEB My SQL",
     "authors": [
         {
-            "name": "adifaw",
-            "email": "adifa.205025@mhs.its.ac.id"
+            "name": "gloriadya",
+            "email": "gloria.205025@mhs.its.ac.id"
         }
     ],
     "require": {},
